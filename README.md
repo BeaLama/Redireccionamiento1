@@ -5,10 +5,4 @@ El espacio en disco (df -h).
 Memoria libre del sistema (free -h).
 Usuarios conectados.
 
-
-
-
-```
-date
-clear
-```
+subir imagen de que el script ha sido ejecutado con éxito.
